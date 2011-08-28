@@ -1,4 +1,4 @@
-Package: com.yourcompany.TaskKillerWatchdog
+Package: com.manuelgebele.TaskKillerWatchdog
 Name: TaskKillerWatchdog
 Depends: mobilesubstrate
 Version: 0.0.1
