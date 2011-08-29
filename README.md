@@ -1,0 +1,1 @@
+This tweak allows you to kill your current running app by holding the home button for 2 seconds.
