@@ -3,7 +3,7 @@ Name: TaskKillerWatchdog
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Permanently close your current running App.
+Description: Really close your current running App.
 Maintainer: Manuel Gebele
 Author: Manuel Gebele
 Section: Tweaks
