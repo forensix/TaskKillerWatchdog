@@ -161,11 +161,6 @@ static BOOL shouldIgnoreScrollToIconList = NO;
         return;
     
     [watchdog killCurrentTask];
-    
-    /*
-     * mail and phone are special since
-     * kill
-     */
 }
 
 -(void)applicationDidFinishLaunching:(id)application
